@@ -1,6 +1,6 @@
 ¡Hola! Bienvenido/a a mi perfil de GitHub.
 
-![]([https://mi-imagen-de-perfil.com](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png))
+![](https://tinkercademy.com/wp-content/uploads/2017/04/Generic-Banner-07-Web-App-Developer.png)
 
 Soy un/a desarrollador/a de software con una gran pasión por la tecnología y la programación. Me encanta aprender cosas nuevas y experimentar con nuevas tecnologías y lenguajes de programación. En mi perfil de GitHub encontrarás proyectos que he trabajado en diversos ámbitos, desde pequeñas aplicaciones hasta proyectos más grandes y complejos.
 
